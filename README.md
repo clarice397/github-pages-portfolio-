@@ -10,7 +10,7 @@ Gianne Clarice Silva Alencar
 
 Contatos:
 
-número: [![Trabalho_Computação_1](https://img.shields.io/badge/Repositório_1-24292E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/clarice397/Introcao_a_computacaqo)
+número:[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5561994152170)
 
 linkedin:[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gianne-clarice-silva-alencar-606239402/) 
 

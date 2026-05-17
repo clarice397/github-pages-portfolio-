@@ -9,12 +9,19 @@ E também busco minha primeira oportunidade na área de tecnologia, visando adqu
 
 Contato: 
 número: 👉 Chamar no WhatsApp 
+
 linkedin :👉 Acessar LinkedIn 
+
 github:👉 Acessar GitHub
+
 Para mais informações sobre mim 
+
 currículo:👉 Abrir Documento (Google Docs)
+
 portfolio:👉 Abrir Apresentação (Google Slides)
 
 Trabalho acadêmicos:
+
 👉 Trabalho 1: Introdução à Computação (clarice397)
+
 👉 Trabalho 2: Introdução à Computação (valadas357)

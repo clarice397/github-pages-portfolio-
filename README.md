@@ -2,4 +2,19 @@
 
 Bootcamp desafio 2.
 
-Esse repositório tem o objetivo de desenvolver o meu portfólio profissional, compartilhar minhas experiências profissionais, e organizalo de forma atraente e profissional, compartilhando também o meu currículo e portfólio. Além disso, vou armazenar, organizar e versionar o código real dos meus projetos e trabalhos acadêmicos. O repositório é a prova física do meu conhecimento: ele demonstra a qualidade do seu código, sua lógica de programação, sua constância de estudos e como você documenta suas soluções
+Gianne Clarice Silva Alencar 
+
+Tenho 18 anos e sou de Brasília. Estudande de Engenharia de Software (1º semestre), focado no desenvolvimento de uma base sólida em lógica de programação e estou  em busca de oportunidade para iniciar na área de tecnologia, com foco no desenvolvimento de habilidades práticas e contribuição em projetos. Conclusão do ensino médio em 2025 e fluência avançada no idioma inglês Possuo conhecimentos avançados  em inglês. Sou uma pessoa organizada e dedicada, com boa capacidade de adaptação e trabalho em equipe.
+E também busco minha primeira oportunidade na área de tecnologia, visando adquirir experiência prática e crescer profissionalmente
+
+Contato: 
+número: 👉 Chamar no WhatsApp 
+linkedin :👉 Acessar LinkedIn 
+github:👉 Acessar GitHub
+Para mais informações sobre mim 
+currículo:👉 Abrir Documento (Google Docs)
+portfolio:👉 Abrir Apresentação (Google Slides)
+
+Trabalho acadêmicos:
+👉 Trabalho 1: Introdução à Computação (clarice397)
+👉 Trabalho 2: Introdução à Computação (valadas357)
